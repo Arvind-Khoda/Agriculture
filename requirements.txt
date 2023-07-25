@@ -1,4 +1,4 @@
-python_version=="3.9"
+python -m pip install --upgrade pip
 pip==23.2.1
 absl-py==1.4.0
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
