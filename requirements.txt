@@ -1,4 +1,4 @@
-pip-upgrade
+pip-upgrader
 absl-py==1.4.0
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==5.0.1
